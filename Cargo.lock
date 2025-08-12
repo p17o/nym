@@ -2370,7 +2370,7 @@ version = "0.1.0"
 dependencies = [
  "cosmwasm-std",
  "quote",
- "syn 1.0.109",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -5902,7 +5902,7 @@ name = "nym-execute"
 version = "0.1.0"
 dependencies = [
  "quote",
- "syn 1.0.109",
+ "syn 2.0.104",
 ]
 
 [[package]]
